@@ -130,7 +130,13 @@ plt.xticks(rotation = 90)
 ## MULTIVARIATE ANALYSIS - HEAT MAP
 ![ex4multiheatmap4](https://user-images.githubusercontent.com/120623583/232687548-8bf129c5-205c-4b2d-980c-dad490384a3d.png)
 
-## MULTIVARIATE ANALYSIS - SUB CATEGORY & SHIP MODE Vs SALES
+## MULTIVARIATE ANALYSIS - SUB CATEGORY & SHIP MODE Vs SALE
+![ex04multisub5](https://user-images.githubusercontent.com/120623583/232688063-2136dfde-9595-4395-aff5-2bcbe7a6194f.png)
 
 
+## RESULT 
+
+The given dataset is read and Multivariate analysis is performed. The inferences are:
+
+Most sales were from the California State Most sales were from Consumer Segment Most sales were from "New York City" Most Sales were shipped on the Same Day and is most from Technology Highest sale was from Machines Sub-category and is shipped in standard class.
 
